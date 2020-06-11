@@ -5,8 +5,9 @@
 </p>
 
 # Januário Miranda
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
+As an Air Force pilot, I combine skills and the ability to work in team environments.
 
+My credentials include a degree in aeronautical sciences and a BA in Business Administration from the Air Force Academy (AFA).
 
 **Background in:** Python.
 
